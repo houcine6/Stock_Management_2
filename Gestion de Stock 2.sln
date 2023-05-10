@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gestion de Stock 2", "Gestion de Stock 2.csproj", "{0701010E-615F-4F6E-8F40-55E47EA5D811}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Logiciel Gestion de Stock 2 (demo)", "..\Logiciel Gestion de Stock 2 (demo)\Logiciel Gestion de Stock 2 (demo).vdproj", "{15DA5FAD-4565-4A49-BC83-821F638EC01E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0701010E-615F-4F6E-8F40-55E47EA5D811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0701010E-615F-4F6E-8F40-55E47EA5D811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0701010E-615F-4F6E-8F40-55E47EA5D811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0701010E-615F-4F6E-8F40-55E47EA5D811}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15DA5FAD-4565-4A49-BC83-821F638EC01E}.Debug|Any CPU.ActiveCfg = Debug
+		{15DA5FAD-4565-4A49-BC83-821F638EC01E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3517756-2A81-4534-B2BB-04E1CC3BE7AC}
+	EndGlobalSection
+EndGlobal
